@@ -38,7 +38,7 @@ function App() {
     setPokemonData(_pokemonData);
   };
 
-  // console.log(pokemonData);
+  console.log(pokemonData);
 
   const handlePrevPage = async () => {
     if (!prevUrl) return;
