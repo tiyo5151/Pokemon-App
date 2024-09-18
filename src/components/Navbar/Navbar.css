@@ -1,0 +1,10 @@
+nav {
+  background: linear-gradient(90deg, #f12711, #f5af19);
+  color: aliceblue;
+  height: 65px;
+  font-weight: 600;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

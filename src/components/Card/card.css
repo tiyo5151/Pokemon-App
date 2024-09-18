@@ -1,0 +1,18 @@
+.card {
+  width: 325px;
+  box-shadow: 11px 11px 40px -3px #000000;
+  border-radius: 20px;
+  background: linear-gradient(90deg, #f12711, #f5af19);
+  color: aliceblue;
+}
+
+.cardName {
+  padding: 0px;
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.cardInfo {
+  text-align: center;
+}
